@@ -1,0 +1,13 @@
+.nome-aluno{
+  color: darkblue
+}
+
+.small-date{
+  color: rgb(170, 161, 161);
+}
+
+.custom-card{
+  border: 1px solid rgb(192, 192, 187);
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
